@@ -1,5 +1,5 @@
 # What the Flash
 
-Most of the repositories for this account are private as they are used to plan YouTube videos etc for the [WTF YouTube](https://www.youtube.com/channel/UCV_kF5ti1v-Sues17qf_H-A) channel. 
+This organisation is the GitHub repo for one of my YouTube resources, however, creating stuff for YouTube has been parked because that's not what I wanted to do long-term, it started as a side hobby that quickly became time consuming and a distraction for what I actually want to do. Therefore the projects in this organisation will be move to other more relatable organisations.
 
-I will share some things here that might be interesting to other people. 
+This GitHub organisation can become a training space or even the seedling for a digital agency. More to follow some time soon.
